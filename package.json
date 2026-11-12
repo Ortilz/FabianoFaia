@@ -1,0 +1,9 @@
+{
+  "name": "fabianofaia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Comunidade FabianoFaia",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
